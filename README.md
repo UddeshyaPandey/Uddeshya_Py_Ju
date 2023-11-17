@@ -1,4 +1,5 @@
 # Uddeshya_Pandey
-I'm a Master's student at the Tirupati-based Indian Institute of Science Education and Research. My research interests are in Computational Biology and Structural Biology.I started solving Rosalind in December 2020, just after i finished my iGEM project. So i am sharing with you my solutions and projects. Mostly, I use python programming but i am alongside learning Julia programming language, just because it is more suitable for scientific computing.
-I am also doing projects in AI and Machine learning as a part of my college curricullum and will be sharing the same in file: data scienceII.
-Initially, I set out to create a toolbox that would allow me to perform in-depth protein research in terms of structure prediction, functional analysis, and integrated visualisation by just entering a few parameters and clicking a button.Source code of this  toolkit will be appearing soon in the folder Protein Master toolkit.
+
+
+#to be updated
+# currently doing my PhD from PMC/ Utrecht University, Utrecht, Netherlands
